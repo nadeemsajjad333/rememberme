@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490247779719",
+    "project_id": "remembermeapp-a8ffc",
+    "storage_bucket": "remembermeapp-a8ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490247779719:android:63e4f17b4d9d280407cf22",
+        "android_client_info": {
+          "package_name": "com.app.rememberme.familytree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490247779719-a9p2q32dg14bn3pe492dq85eq74kcupf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCVYf9JIl4xrp2Ng8hl7drj-4LJC4s6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490247779719-a9p2q32dg14bn3pe492dq85eq74kcupf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
